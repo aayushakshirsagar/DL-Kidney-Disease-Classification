@@ -10,6 +10,7 @@ REPO_NAME = "DL-Kidney-Disease-Classification"
 AUTHOR_USERNAME="aayushakshirsagar"
 SRC_REPO="cnnClassifier"
 
+
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
